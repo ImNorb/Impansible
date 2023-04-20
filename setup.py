@@ -148,7 +148,7 @@ available:
   download_url = 'https://github.com/AdamPrzybyla/Impansible/archive/v_11.tar.gz',
   keywords = ['robotframework', 'ansible', 'automatisation','nsm'],
   install_requires=[
-          'ansible>=2.9,<2.10',
+          'ansible>=2.9',
           'robotframework',
           'robotframework-nsm',
       ],
